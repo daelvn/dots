@@ -1,0 +1,17 @@
+import:
+  - ~/.config/alacritty-themes/themes/nord.yaml
+window:
+  padding:
+    x: 10
+    y: 10
+font:
+  normal:
+    family: FiraCode Nerd Font
+    style: Retina
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold
+  italic:
+    family: FiraCode Nerd Font
+    style: Italic
+  size: 11.0
